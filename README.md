@@ -1,8 +1,5 @@
-# about the repository:
-used https://www.omdbapi.com/ as Api to fetch list of movies,
-use search from to filter the movies depend of user search keyword
-use react-router-dom to dynamic routing in a web app.
-
+# About the repository:
+This repository uses https://www.omdbapi.com/ as API to fetch the list of movies, and also it uses "search from" to filter the movies depending on the user search keyword. In addition, it uses the "react-router-dom" to dynamic routing in a web app.
 
 ## Available Scripts
 
