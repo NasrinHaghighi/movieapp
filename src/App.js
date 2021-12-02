@@ -6,6 +6,7 @@ import About from './pages/About';
 import SingleMovie from './pages/SingleMovie';
 import './App.css';
 
+
 function App() {
   return (
    <Router>

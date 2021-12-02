@@ -6,6 +6,7 @@ import {api_endpoint } from '../context'
 console.log(api_endpoint)
 
 const SingleMovie=() =>{
+    //useParams //
     const { id } = useParams()
 const [loading , setLoading] = useState(false)
 const [error , setError] = useState({show:false, msg:''})
