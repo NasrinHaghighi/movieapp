@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# about the repository:
+used https://www.omdbapi.com/ as Api to fetch list of movies,
+use search from to filter the movies depend of user search keyword
+use react-router-dom to dynamic routing in a web app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
